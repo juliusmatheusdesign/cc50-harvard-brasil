@@ -3,5 +3,6 @@
 
 int main(void)
 {
+    // Greet user
     prinf("Hello, World.\n")
 }
